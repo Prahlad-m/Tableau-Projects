@@ -2,13 +2,7 @@
 
 # 📊 Global Superstore Dashboard – Tableau Project
 
-**Submission Date**: 2 May 2025  
-**Tool**: Tableau  
-**Dataset**: Global Superstore
-
-## 🎯 Project Objective
-
-Create an interactive Tableau dashboard using the Global Superstore dataset, featuring at least **four distinct visualizations** to provide insights into sales performance, profitability, shipping costs, and order priorities.
+Create an interactive Tableau dashboard using the Global Superstore dataset, featuring **four distinct visualizations** to provide insights into sales performance, profitability, shipping costs, and order priorities.
 
 ---
 
@@ -57,16 +51,6 @@ Create an interactive Tableau dashboard using the Global Superstore dataset, fea
   - Consistent color scheme
   - Clear titles and legends
   - Responsive filter actions
-
----
-
-## ✅ Outcome
-
-The final dashboard enables users to:
-- Explore regional sales trends over time
-- Compare profitability across product categories
-- Analyze cost implications of different shipping methods
-- Understand how order priorities vary across segments and regions
 
 ---
 
