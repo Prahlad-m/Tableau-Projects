@@ -42,6 +42,11 @@ Create an interactive Tableau dashboard using the Global Superstore dataset, fea
   - Filters for **Segment** and **Region**.
 
 ---
+# Global Superstore Dashboard
+<img src="Images/Global_Superstore_Dashboard.png" width="4000" >
+
+[View in Tablaeu Public](https://public.tableau.com/views/Global_Superstore_Dashboard_17416893219880/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
 
 ## 🧩 Dashboard Design
 
