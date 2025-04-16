@@ -2,7 +2,7 @@
 
 # 📊 Global Superstore Dashboard – Tableau Project
 
-Create an interactive Tableau dashboard using the Global Superstore dataset, featuring **four distinct visualizations** to provide insights into sales performance, profitability, shipping costs, and order priorities.
+Create an interactive Tableau dashboard using the Global Superstore dataset, featuring **four distinct visualisations** to provide insights into sales performance, profitability, shipping costs, and order priorities.
 
 ---
 
@@ -26,7 +26,7 @@ Create an interactive Tableau dashboard using the Global Superstore dataset, fea
 - **Type**: Scatter Plot
 - **Insight**: Profit vs Sales for each product category.
 - **Features**:
-  - Color-coded by product category for quick comparison.
+  - Colour-coded by product category for quick comparison.
 
 ### 3. **Shipping Cost Analysis**
 - **Type**: Line Chart
@@ -45,18 +45,18 @@ Create an interactive Tableau dashboard using the Global Superstore dataset, fea
 # Global Superstore Dashboard
 <img src="Images/Global_Superstore_Dashboard.png" width="4000" >
 
-[View in Tablaeu Public](https://public.tableau.com/views/Global_Superstore_Dashboard_17416893219880/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View in Tableau Public](https://public.tableau.com/views/Global_Superstore_Dashboard_17416893219880/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ---
 
 ## 🧩 Dashboard Design
 
-- Combined all four visualizations into a **single interactive dashboard**.
+- Combined all four visualisations into a **single interactive dashboard**.
 - Linked filters across views for a unified user experience.
 - Focused on clean layout and user-friendly design:
-  - Consistent color scheme
+  - Consistent colour scheme
   - Clear titles and legends
   - Responsive filter actions
 
 ---
 
-> 💡 This project showcases intermediate Tableau skills in data visualization, dashboard design, and interactive analytics.
+> 💡 This project showcases intermediate Tableau skills in data visualisation, dashboard design, and interactive analytics.
