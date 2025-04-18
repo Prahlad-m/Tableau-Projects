@@ -58,5 +58,16 @@ Create an interactive Tableau dashboard using the Global Superstore dataset, fea
   - Responsive filter actions
 
 ---
+# 📊 Spotify Dashboard – Tableau Project
+
+This dashboard features an array of data regarding tracks on spotify.
+
+---
+# Spotify Dashboard
+<img src="Images/SpotifyExtensionDashboard.png" width="4000" >
+
+[View in Tableau Public](https://public.tableau.com/views/SpotifyExtensionDataVisuals/Dashboard2?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+---
+---
 
 > 💡 This project showcases intermediate Tableau skills in data visualisation, dashboard design, and interactive analytics.
